@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/SeaeeesSan/SimpleFolderIcon)](https://github.com/SeaeeesSan/SimpleFolderIcon/blob/master/LICENSE)
 [![openupm](https://img.shields.io/npm/v/com.seaeees.simple-folder-icon?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.seaeees.simple-folder-icon/)
 
-### 日本語版は[こちら](README_jp.md)
+### 日本語版は[こちら](README_JP.md)
 
 ![image](https://github.com/user-attachments/assets/dc74f5c8-680e-427b-bc69-fe61ecf8bc0e)
 
@@ -56,7 +56,7 @@ Unity2019.4 or later
 - Window > Package Manager > Add package from git URL...
 
 ```
-https://github.com/SeaeeesSan/SimpleFolderIcon.git?path=Packages/com.seaeees.simple-folder-icon
+https://github.com/SeaeeesSan/SimpleFolderIcon.git
 ```
 
 ### Install via OpenUPM
